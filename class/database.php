@@ -2,10 +2,10 @@
 
 class database
 {
-    private $hostname = "localhost:3325";
-    private $username = "root";
-    private $password = "";
-    private $dbname = "tech";
+    private $hostname = "remotemysql.com";
+    private $username = "gwRBZDSW6o";
+    private $password = "LEnnyi3t1o";
+    private $dbname = "gwRBZDSW6o";
 
     protected $link;
 
